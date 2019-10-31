@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Relatorio Veiculo</string>
+    <string name="textLitros">Quantidade abastescida: %1$s %2$s </string>
+    <string name="textValorKM">KM Atual: %1$s </string>
+    <string-array name="opcoes_postos">
+        <item>Ipiranga</item>
+        <item>Petrobras</item>
+        <item>Shell</item>
+        <item>Texaco</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
